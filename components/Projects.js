@@ -60,7 +60,7 @@ export default function Projects() {
 					<div className="project">
 						<h3>Faux Comme De Garcon Shop</h3>
 						<p>
-							Derived from Wes Bos's Tutorial, this fully functioning ecommerce
+							Derived from Wes Bos Tutorial, this fully functioning ecommerce
 							shop displays faux fashion items
 						</p>
 						<TechTagContainer>
