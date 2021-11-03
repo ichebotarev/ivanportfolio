@@ -41,7 +41,6 @@ export default function Background() {
 		<>
 			<Name>Background</Name>
 			<BackgroundStyles>
-				
 				<BackgroundContainer>
 					<h4>
 						Originally born in Russia I moved to the United States when I was 5
@@ -57,7 +56,7 @@ export default function Background() {
 					</h4>
 					<h4>
 						My intention is to learn as much as possible to diversify my ability
-						to make things. I am very hungry. <span><p>(Please give me food)</p></span>.
+						to make things. I am very hungry. <span><p>(Please give me food)</p></span>
 					</h4>
 					<h5>
 						<a href="https://ivanprojects.s3.us-west-1.amazonaws.com/Ivan_Chebotarev_-_Web_Developer.pdf" target="_blank" rel="noreferrer">Check out my Resume</a>
